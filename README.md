@@ -1,7 +1,7 @@
 # COMP377
 # AI For Software Developers - Labs
 
-Lab Assignment #1 – Apply Linear Regression and Polynomial Regression algorithms to solve various regression problems
+# Lab Assignment #1 – Apply Linear Regression and Polynomial Regression algorithms to solve various regression problems
 
 Exercise 1: Linear Regression
 
@@ -23,7 +23,7 @@ Also, determine the coefficient of determination (R2) of the model.
 
 
 
-Lab Assignment #2 – Apply Logistic Regression and Support Vector Machines algorithms to solve various classification problems
+# Lab Assignment #2 – Apply Logistic Regression and Support Vector Machines algorithms to solve various classification problems
 
 Exercise 1: Logistic Regression
 
@@ -39,7 +39,7 @@ Rest of the functionality must be accomplished using scikit-learn library. Train
 
 
 
-Lab Assignment #3 – Use MLPs for prediction/classification problems
+# Lab Assignment #3 – Use MLPs for prediction/classification problems
 
 Exercise 1: Multi-layer Neural Network
 
@@ -55,7 +55,7 @@ Rest of the functionality must be accomplished using scikit-learn library. Train
 
 
 
-Lab Assignment #4 – Use CNNs in image classification problems
+# Lab Assignment #4 – Use CNNs in image classification problems
 
 Exercise 1: Convolutional Neural Networks
 
@@ -76,7 +76,7 @@ In this exercise you will build a CNN model for photo classification using tenso
 
 
 
-Lab Assignment #5 – Apply LSTM algorithm to make future predictions using time series data
+# Lab Assignment #5 – Apply LSTM algorithm to make future predictions using time series data
 
 Exercise 1: LSTM
 
@@ -87,7 +87,7 @@ Evaluate the model test loss. Display the graph of real data and predicted data.
 
 
 
-Test #1
+# Test #1
 
 Exercise 1: 
 In this exercise you will use logistic regression to train a model for predicting the diagnosis of heart disease using the heart disease dataset from the file heart.csv. The detail about the column headers is provided in the readme.txt file. You are to code your solution in a Jupyter notebook file (i.e. an ipynb file). This exercise tests your familiarity with scikit-learn (sklearn) classes/functions as well.
