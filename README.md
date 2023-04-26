@@ -1,5 +1,5 @@
 # COMP377
-AI For Software Developers - Labs
+# AI For Software Developers - Labs
 
 Lab Assignment #1 – Apply Linear Regression and Polynomial Regression algorithms to solve various regression problems
 
