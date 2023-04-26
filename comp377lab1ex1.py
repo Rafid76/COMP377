@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Feb  6 20:57:00 2023
-
 @author: rafid
 """
 
