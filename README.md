@@ -22,6 +22,7 @@ Also, determine the coefficient of determination (R2) of the model.
 
 
 
+
 Lab Assignment #2 – Apply Logistic Regression and Support Vector Machines algorithms to solve various classification problems
 
 Exercise 1: Logistic Regression
@@ -37,6 +38,7 @@ Rest of the functionality must be accomplished using scikit-learn library. Train
 
 
 
+
 Lab Assignment #3 – Use MLPs for prediction/classification problems
 
 Exercise 1: Multi-layer Neural Network
@@ -48,6 +50,7 @@ Exercise 2: Multi-layer Neural Network
 
 Write a scikit-learn based application to classify MNIST digits using the MLP model MLPClassifier. The dataset is from http://yann.lecun.com/exdb/mnist/. You must use a tensorflow function to just fetch the data. The description about this tensorflow function is in this page: https://www.tensorflow.org/api_docs/python/tf/keras/datasets/mnist/load_data
 Rest of the functionality must be accomplished using scikit-learn library. Train the model using the top 60 rows out of 60000 rows of the training data (present in x_train; see below how to obtain the training data in x_train). Test the model using top 10 rows out of 10000 rows of test data (present in x_test; see below how to obtain the test data in x_test). Evaluate the accuracy of the model. 
+
 
 
 
@@ -72,6 +75,7 @@ In this exercise you will build a CNN model for photo classification using tenso
 
 
 
+
 Lab Assignment #5 – Apply LSTM algorithm to make future predictions using time series data
 
 Exercise 1: LSTM
@@ -79,6 +83,7 @@ Exercise 1: LSTM
 In this exercise you will implement an LSTM model to make future predictions using time series data. Use TensorFlow to build an LSTM model for predicting stock prices for a company listed in the NASDAQ listings. For this assignment, you should first download the historic data of a company’s stock price in form of a .csv file. Then, use the data displayed in the column named Close. This column contains the closing price (i.e. the last price) of the day of a stock.
 
 Evaluate the model test loss. Display the graph of real data and predicted data.
+
 
 
 
